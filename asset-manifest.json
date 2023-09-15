@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfoliogaming/static/css/main.58462fbc.css",
+    "main.js": "/portfoliogaming/static/js/main.75fe967c.js",
+    "static/media/u-said-it-v13-1167.mp3": "/portfoliogaming/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/portfoliogaming/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/portfoliogaming/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/profile-img.png": "/portfoliogaming/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "index.html": "/portfoliogaming/index.html",
+    "main.58462fbc.css.map": "/portfoliogaming/static/css/main.58462fbc.css.map",
+    "main.75fe967c.js.map": "/portfoliogaming/static/js/main.75fe967c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.75fe967c.js"
+  ]
+}
